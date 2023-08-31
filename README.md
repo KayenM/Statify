@@ -70,7 +70,7 @@
 <h2 id="access-statify">Access Statify</h2>
 
 <p align="center">
-  You can access Statify <a href="https://statify-flow.vercel.app/">here</a>. Go ahead, give it a spin, and embrace the magic of your music stats!
+  You can access Statify <a href="https://statify-flow.vercel.app/">here</a>. Go ahead, give it a spin, and we hope you enjoy!
 </p>
 
 <!-- <p align="center">
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <b>Javascript</b> • <b>React</b> • <b>Next.js</b> • <b>Spotify API</b>
+  <b>Javascript</b> • <b>React</b> • <b>Next.js</b> • <b>Spotify API</b> • <b>Cohere LLM</b>
 </p>
 
 <h2 id="getting-started">Getting Started</h2>
@@ -99,7 +99,7 @@
   <li>Clone this repository: <code>git clone [repo link]</code></li>
   <li>Navigate to the project directory: <code>cd statify</code></li>
   <li>Install the dependencies: <code>npm install</code></li>
-  <li>Create a <code>.env.local</code> file in the root directory and add your Spotify API credentials</li>
+  <li>Create a <code>.env.local</code> file in the root directory and add your Spotify API and Cohere API credentials</li>
 </ol>
 
 <ol start="5">
