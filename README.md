@@ -70,11 +70,11 @@
 <h2 id="access-statify">Access Statify</h2>
 
 <p align="center">
-  You can access Statify <a href="https://statify-flow.vercel.app/">here</a>. Go ahead, give it a spin, and we hope you enjoy!
+  You can access Statify <a href="https://statify-chi.vercel.app">here</a>. Go ahead, give it a spin, and we hope you enjoy!
 </p>
 
 <!-- <p align="center">
-  <a href="https://statify-flow.vercel.app/">
+  <a href="https://statify-chi.vercel.app">
     <img src="https://your-demo-image-url.com" alt="Statify Demo">
   </a>
 </p> -->
