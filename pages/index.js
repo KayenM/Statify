@@ -59,7 +59,7 @@ function Login() {
 
       <div className="hello credits">
 
-        Developed by <a href="https://github.com/KayenM" target="_blank" rel="noopener noreferrer"> Kayen Mehta  </a>  and  <a href="https://github.com/kevinle623"  target="_blank" rel="noopener noreferrer">Kevin Le  </a>
+        Developed by <a href="https://github.com/KayenM" target="_blank" rel="noopener noreferrer"> Kayen Mehta  </a>
       </div>
     </div>
 </footer>
