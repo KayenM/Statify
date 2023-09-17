@@ -26,8 +26,8 @@
 
 <h2 id="video-demo">🎥 Video Demo</h2>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=6gvmcJLWSi8">
-    <img src="https://img.youtube.com/vi/6gvmcJLWSi8/0.jpg" alt="Demo Video">
+  <a href="https://youtu.be/E71rGWa8KBI">
+    <img src="https://img.youtube.com/vi/E71rGWa8KBI/0.jpg" alt="Demo Video">
   </a>
 </p>
 
