@@ -245,25 +245,24 @@ class Home extends Component {
 
 
 
-<div>
-  <img src= {this.state.nowPlaying.image} style= {{width: 200}}/>
-</div>
-<h2 data-aos="fade-up" data-aos-delay="400">{ this.state.nowPlaying.name }</h2>
-<div className= " hello" data-aos="fade-up" data-aos-delay="600">
-<div className="hello text-center ">
-<a onClick={() => this.getNowPlaying()} className="btn-get-started align-items-center justify-content-center align-self-center">
-<span>CHECK NOW PLAYING</span>
-</a>
-</div>
-</div>
-
-
+      <div>
+        <img src= {this.state.nowPlaying.image} style= {{width: 200}}/>
+        </div>
+          <h2 data-aos="fade-up" data-aos-delay="400">{ this.state.nowPlaying.name }</h2>
+          <div className= " hello" data-aos="fade-up" data-aos-delay="600">
+            <div className="hello text-center ">
+              <a onClick={() => this.getNowPlaying()} className="btn-get-started align-items-center justify-content-center align-self-center">
+                <span>CHECK NOW PLAYING</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </section>
 
-  <div className= 'statify-ai'><h1 className= 'helloLarge' data-aos="fade-up">Statify ai</h1>
+    <div className= 'statify-ai'>
+      <h1 className= 'helloLarge' data-aos="fade-up">Statify ai</h1>
         <div className="spotify-story-div align-items-center">
           <a onClick={() => this.generateStory()} className="btn-get-started align-items-center justify-content-center align-self-center">
             <span>SEE YOUR UNIQUE BIOGRAPHY</span>
